@@ -1,0 +1,16 @@
+.fon{background-color: rgb(175, 135, 83);
+width: 400px;
+height: 180px;}
+
+.img{width: 140px;
+height: 110px;
+float: left; 
+padding : 20px 20px 0px 20px;}
+
+.h2{text-align: left;
+    float: left;
+}
+
+.left{float: 80px 0 0 0 ;}
+.text{width: 46%;
+height: 50%;}
