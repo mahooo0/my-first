@@ -1,0 +1,27 @@
+.header{background-color: black;
+width: 100%;
+height:100px;
+color: aliceblue;
+}
+
+.My{color: aliceblue;
+font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-left: 15px;
+}
+
+.a {font-size: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-left: 30px;
+padding: 10px 0 0 0 ;}
+
+.body{font-size:46px ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.div1{float: left;}
+
+.input{  float: right;
+margin: 15px;}
+  
+.main{width: 100%;
+height: 400px;}
